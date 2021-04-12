@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pomodorotimer/static/css/main.f5daa8e3.chunk.css",
+    "main.js": "/pomodorotimer/static/js/main.1f387b96.chunk.js",
+    "main.js.map": "/pomodorotimer/static/js/main.1f387b96.chunk.js.map",
+    "runtime-main.js": "/pomodorotimer/static/js/runtime-main.c0dadecf.js",
+    "runtime-main.js.map": "/pomodorotimer/static/js/runtime-main.c0dadecf.js.map",
+    "static/js/2.51ce7a34.chunk.js": "/pomodorotimer/static/js/2.51ce7a34.chunk.js",
+    "static/js/2.51ce7a34.chunk.js.map": "/pomodorotimer/static/js/2.51ce7a34.chunk.js.map",
+    "index.html": "/pomodorotimer/index.html",
+    "static/css/main.f5daa8e3.chunk.css.map": "/pomodorotimer/static/css/main.f5daa8e3.chunk.css.map",
+    "static/js/2.51ce7a34.chunk.js.LICENSE.txt": "/pomodorotimer/static/js/2.51ce7a34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0dadecf.js",
+    "static/js/2.51ce7a34.chunk.js",
+    "static/css/main.f5daa8e3.chunk.css",
+    "static/js/main.1f387b96.chunk.js"
+  ]
+}
