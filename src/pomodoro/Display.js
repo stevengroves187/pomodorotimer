@@ -19,9 +19,7 @@ return (
                 "d-block": running,
               })}>
           <div className="col">
-            {/* TODO: Update message below to include current session (Focusing or On Break) and total duration */}
             <h2 data-testid="session-title">{timer.mode} for {minutesToDuration(timer.currentDuration)} minutes</h2>
-            {/* TODO: Update message below to include time remaining in the current session */}
             <p className="lead" data-testid="session-sub-title">
               {secondsToDuration(timer.timeRemaining)} remaining
             </p>

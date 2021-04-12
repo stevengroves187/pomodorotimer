@@ -10,7 +10,6 @@ function FocusDuration({clickHandler, timer, running}) {
         Focus Duration: {minutesToDuration(timer.focusDuration)}
       </span>
       <div className="input-group-append">
-        {/* TODO: Implement decreasing focus duration and disable during a focus or break session */}
         <button
           onClick= {clickHandler}
           type="button"
@@ -28,7 +27,6 @@ function FocusDuration({clickHandler, timer, running}) {
                   "text-secondary": (running || timer.time > 0),
                 })}/>
         </button>
-        {/* TODO: Implement increasing focus duration  and disable during a focus or break session */}
         <button
           onClick= {clickHandler}
           id="increase"
