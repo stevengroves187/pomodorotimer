@@ -2,7 +2,7 @@
   "name": "pomodoro",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://stevengroves187.github.io/pomodoro",
+  "homepage": "http://stevengroves187.github.io/pomodorotimer",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
