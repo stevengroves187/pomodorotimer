@@ -38,7 +38,7 @@
     <br />
     <a href="https://github.com/stevengroves187/pomodorotimer">View Demo</a>
     ·
-    <a href="https://github.com/stevengroves187/pomodorotimer/issues">pomodorotimerrt Bug</a>
+    <a href="https://github.com/stevengroves187/pomodorotimer/issues">Bugs</a>
     ·
     <a href="https://github.com/stevengroves187/pomodorotimer/issues">Request Feature</a>
   </p>
