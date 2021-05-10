@@ -84,7 +84,7 @@ This is a pomodoro timer with customizable focus and break periods. The aim of t
 
 ### Built With
 
-* React
+* React.js(https://reactjs.org/)
 * []()
 * []()
 
