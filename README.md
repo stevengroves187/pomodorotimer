@@ -32,7 +32,6 @@
   <h3 align="center">Pomodoro Timer</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/stevengroves187/pomodorotimer"><strong>Explore the docs »</strong></a>
     <br />
