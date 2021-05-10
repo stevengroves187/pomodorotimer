@@ -88,7 +88,7 @@ This is a pomodoro timer with customizable focus and break periods. The aim of t
   </ul>
 * <a href="https://getbootstrap.com/">Bootstrap</a>
   <ul>
-  <li> Utilizing Bootstrap styling</li>
+  <li> Utilizing Bootstrap for styling</li>
   </ul>
 * <a href="https://babeljs.io/">Babel</a>
 
