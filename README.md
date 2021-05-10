@@ -29,13 +29,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/stevengroves187/pomodorotimer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Pomodoro Timer</h3>
 
   <p align="center">
@@ -92,7 +85,7 @@ This is a pomodoro timer with customizable focus and break periods. The aim of t
 
 ### Built With
 
-* []()
+* React
 * []()
 * []()
 
