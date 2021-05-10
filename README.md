@@ -139,7 +139,7 @@ See the [open issues](https://github.com/stevengroves187/pomodorotimer/issues) f
 
 <!-- LICENSE -->
 ## License
-
+Best-ReadME-Template license included.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - stevengroves187@gmail.com
+Steven Groves - stevengroves187@gmail.com
 
 Project Link: [https://github.com/stevengroves187/pomodorotimer](https://github.com/stevengroves187/pomodorotimer)
 
