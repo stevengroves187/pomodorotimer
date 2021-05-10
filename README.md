@@ -65,10 +65,8 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -84,9 +82,15 @@ This is a pomodoro timer with customizable focus and break periods. The aim of t
 
 ### Built With
 
-* React.js(https://reactjs.org/)
-* []()
-* []()
+* <a href="https://reactjs.org/">React</a>
+  <ul>
+  <li> Utilizing React components and states</li>
+  </ul>
+* <a href="https://getbootstrap.com/">Bootstrap</a>
+  <ul>
+  <li> Utilizing Bootstrap styling</li>
+  </ul>
+* <a href="https://babeljs.io/">Babel</a>
 
 
 
@@ -120,27 +124,17 @@ To get a local copy up and running follow these simple steps.
 
 Set your preferred focus time and your break time, then just hit the play button! Pause or stop whenever you feel it's necessary. An audio cue will play when it is time to switch between focus and break periods. 
 
+Focus and break duration changes are disabled during the periods. Stop the timer to reset.
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
+Through building the app, I discovered the usage and implementation of useInterval and integration of timers and timing functionality.
+I would like to expand the app to have task creation and selection functionality to add more specified focus for users.
+
 See the [open issues](https://github.com/stevengroves187/pomodorotimer/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 
 
 <!-- LICENSE -->
@@ -156,15 +150,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - stevengroves187@gmail.com
 
 Project Link: [https://github.com/stevengroves187/pomodorotimer](https://github.com/stevengroves187/pomodorotimer)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
 
 
 
